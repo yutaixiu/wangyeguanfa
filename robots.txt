@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yutaixiu.github.io/wangyeguanfa/sitemap.xml
